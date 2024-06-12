@@ -1,9 +1,7 @@
 # Recommendation system
+Aldanbergen Zholdas, 
 
-Yeslamov Temirlan, 22200836
-
-Aldanbergen Zholdas, 22211514
-
+Yeslamov Temirlan, 
 
 # Project description
 This project, a part of the "Assistance Systems" course, focuses on developing a sophisticated diabetes recommendation system. Utilizing a comprehensive dataset in CSV format, the system analyzes various health parameters to predict diabetes outcomes. These parameters include Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, and Pregnancies, which play a crucial role in determining whether an individual is Diabetic or Non-Diabetic.
@@ -65,15 +63,4 @@ The visualisation part, the bar chart shows the results of SHAP values, which sh
 
 Data analysis can be found in jupyter notebook
 
-# Work done
-Zholdas performed tasks:
 
-1) Graphical User Interface
-2) Pandas with Numpy
-
-Temirlan performed tasks:
-
-3) Visualization
-4) Scikit-Learn
-
-However, we completed every task together, so there were practically no devisions to the roles in completing tasks. 
